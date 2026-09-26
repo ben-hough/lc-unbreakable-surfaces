@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/UnbreakableSurfaces. This repo is archived and read-only; full history was preserved there.
+
 # UnbreakableSurfaces
 
 Bridges and unstable platforms never collapse.
